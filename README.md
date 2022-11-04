@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Syne&size=24&duration=4000&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Welcome+to+my+profile;My+name+is+Kaique+Oliveira;I'm+from+Brazil)](https://git.io/typing-svg)
 <br></br>
 
-Tenho 18 anos e entrei na jornada da programação a pouco tempo porém ja gosto muitoo 🚨
+I'm 18 years old and I just joined the programming journey, but I already like it a lot. 🚨
 
-- Desenvolvedor Front-End, futuramente Full-Stack ⚡
+- Front-End Developer, in the future Full-Stack.⚡
 
-- Atualmente estou apenas estudando porém estou aberto a novas oportunidades 📚
+- Currently I'm just studying but I'm open to new opportunities. 📚
 
-- Desenvolvi um portfólio pessoal para mim, caso queira dar uma olhada <a href="https://kiqv.github.io/kaiqueOliveira/" target="_blank">Clique aqui!</a> Em breve estarei colocando os meus projetos principais neste site.
+- I've developed a personal portfolio for myself, if you'd like to take a look <a href="https://kiqv.github.io/kaiqueOliveira/" target="_blank">click here!</a> Soon I will be putting my main projects on this site.
 <br></br>
 
 <div>  
