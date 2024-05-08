@@ -3,7 +3,7 @@
 
 I'm 18 years old and I just joined the programming journey, but I already like it a lot. 🚨
 
-- Studying Systems Analysis and Development at <a href="https://www.impacta.com.br/" target="_blank">Impacta</a>
+- Studying Systems Analysis and Development at <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>
 - Front-End Developer, in the future Full-Stack.⚡
 - Currently I'm just studying but I'm open to new opportunities. 📚
 
