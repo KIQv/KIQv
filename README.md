@@ -1,13 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Syne&size=24&duration=4000&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 <br></br>
 
-I'm 18 years old and I just joined the programming journey, but I already like it a lot. 🚨
+I'm 20 years old and I just joined the programming journey, but I already like it a lot. 🚨
 
 - Studying Systems Analysis and Development at <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>
-- Front-End Developer, in the future Full-Stack.⚡
+- Web Developer, in the future Software engineering.⚡
 - Currently I'm just studying but I'm open to new opportunities. 📚
 
-- I've developed a personal portfolio for myself, if you'd like to take a look <a href="https://okaique.com/" target="_blank">click here!</a> Soon I will be putting my main projects on this site.
 <br></br>
 
 <div>  
