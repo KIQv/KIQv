@@ -1,15 +1,51 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Syne&size=24&duration=4000&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
-<br></br>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-I'm 20 years old and I just joined the programming journey, but I already like it a lot. 🚨
+###
 
-- Studying Systems Analysis and Development at <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>
-- Web Developer, in the future Software engineering.⚡
-- Currently I'm just studying but I'm open to new opportunities. 📚
+<p align="left">My name is Kaique, I'm 20 years old, and I'm from Brazil.</p>
 
-<br></br>
+###
 
-<div>  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KIQv&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Kaique Oliveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIQv&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🚀 Passionate Programmer | Systems Analysis and Development Student<br>🎓 Studying at <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>a<br>💻 Developing in Java with Vue.js and building skills in web development.<br>🌟 Aspiring Software Engineer, currently focused on learning and open to opportunities!</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/kiqv/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=5511969670335&text&type=phone_number&app_absent=0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:kaiqueoliveira257@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
+  </a>
 </div>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="24" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="24" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="24" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KIQv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
