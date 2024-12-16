@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 Passionate Programmer | Systems Analysis and Development Student<br>🎓 Studying at <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>a<br>💻 Developing in Java with Vue.js and building skills in web development.<br>🌟 Aspiring Software Engineer, currently focused on learning and open to opportunities!</p>
+<p align="left">🚀 Passionate Programmer | Systems Analysis and Development Student<br>🎓 Studying at <a href="https://www.fiap.com.br/" target="_blank">FIAP</a><br>💻 Developing in Java with Vue.js and building skills in web development.<br>🌟 Aspiring Software Engineer, currently focused on learning and open to opportunities!</p>
 
 ###
 
