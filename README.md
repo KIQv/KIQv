@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 Passionate Programmer | Systems Analysis and Development Student<br>🎓 Studying at <a href="https://www.fiap.com.br/" target="_blank">FIAP</a><br>💻 Developing in Java with Vue.js and building skills in web development.<br>🌟 Aspiring Software Engineer, currently focused on learning and open to opportunities!</p>
+<p align="left">🚀 Software Developer | Systems Analysis and Development at <a href="https://www.fiap.com.br/" target="_blank">FIAP</a><br>💻 Developing in Java with Angular and building skills in web development.<br>🌟 Aspiring Software Engineer, currently focused on learning and open to opportunities!</p>
 
 ###
 
@@ -33,13 +33,15 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="24" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="32" alt="angular logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="24" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="24" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="32" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="32" alt="tailwindcss logo"  />
 </div>
 
 ###
